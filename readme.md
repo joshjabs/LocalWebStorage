@@ -8,9 +8,10 @@ There are two types of web storage we can access:
 
 2) Session Storage - Cleared when the page session ends
 
+## About This Repo
 
-This is a free educational resource released under the MIT License.
+This project includes Pseudo Code for a Coding Lab. The fully functioning version is located on the 'build' branch.
 
-Use, build, and snip from this project however you like!
+This is a free educational resource released under the MIT License. Use, build, and snip from this project however you like!
 
 ![Alt Text](capture.png)
